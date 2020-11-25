@@ -1,0 +1,56 @@
+body,h1,h2,h3,h4,p{
+	margin:0;
+}
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+img{
+	border:none;
+	vertical-align: middle;
+}
+a{
+	text-decoration: none;
+	color:#3c3c3c;
+}
+i{
+	font-style:normal;
+}
+input,button{
+	margin:0;
+	padding:0;
+}
+/* 表单的聚焦 */
+button{
+	outline:none;
+}
+/* 表格重置样式 */
+table{
+	border-collapse: collapse;/* 边框模式 合并的模式*/
+}
+th,td{
+	padding: 0;
+}
+/* \5b8b\4f53(宋体) */
+body{
+	font:12px/1.5 taboma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+	color:#3c3c3c;
+	background-color:#f4f4f4;
+}
+.clearfix::after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.layer{
+	width:1190px;
+	margin:0 auto;
+}

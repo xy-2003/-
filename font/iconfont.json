@@ -1,0 +1,156 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7445",
+      "name": "右三角",
+      "font_class": "yousanjiao",
+      "unicode": "f0005",
+      "unicode_decimal": 983045
+    },
+    {
+      "icon_id": "211262",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "218135",
+      "name": "淘公仔",
+      "font_class": "taogongzi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "533574",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "654295",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "844139",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "918005",
+      "name": "笑脸",
+      "font_class": "smile",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "1166065",
+      "name": "播放",
+      "font_class": "bofang-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1369331",
+      "name": "冒号 ",
+      "font_class": "11111111111",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "2935619",
+      "name": "V",
+      "font_class": "V",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "3547647",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "3692126",
+      "name": "下箭头",
+      "font_class": "arrow",
+      "unicode": "e50d",
+      "unicode_decimal": 58637
+    },
+    {
+      "icon_id": "5443094",
+      "name": "叉号",
+      "font_class": "chahao",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "5507568",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "6843996",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6913900",
+      "name": "右",
+      "font_class": "you1",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "8112830",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e511",
+      "unicode_decimal": 58641
+    },
+    {
+      "icon_id": "10584699",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "11283436",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "12669117",
+      "name": "淘公仔",
+      "font_class": "taogongzi1",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "14990583",
+      "name": " menu",
+      "font_class": "menu",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    }
+  ]
+}
